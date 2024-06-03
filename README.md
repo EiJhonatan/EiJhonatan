@@ -1,22 +1,11 @@
 
 <p align="center">Sou conhecido por <b style="color: #EB9326">EiJhonatan</b> e estou cursando Análise e Desenvolvimento de Sistemas na UNINTER </p>
-
-<h2 align="center"> 🔌Conecte-se comigo / Connect with me </h2>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eijhonatanferreira/)
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=fffff)](https://github.com/EiJhonatan)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=White)](mailto:devjhow2003@gmail.com)
-
-</div>
 <h3 align=center>Sobre mim</h3> 
 
 <p>
 🟠 Olá, meu nome é Jhonatan, me interessei pela área de desenvolvimento de jogos aos 13 anos, depois disso experimentei diversas áreas da tecnologia como software, web e agora com 20 anos estou cursando cursando Análise e Desenvolvimento de Sistemas na UNINTER.
 
 </p>
-
 <p>
 🟠 Gosto muito de aprender coisas novas, e sempre procuro algo novo pra saber.
 </p>
@@ -26,15 +15,13 @@
 <h3 align=center>About[en-us]</h3> 
 
 <p>
-🟠 Hello, my name is Jhonatan, I became interested in the area of ​​game development at the age of 13, after that I tried different areas of technology such as software, web and now at the age of 20 I am studying Systems Analysis and Development at UNINTER.
+🟧 Hello, my name is Jhonatan, I became interested in the area of ​​game development at the age of 13, after that I tried different areas of technology such as software, web and now at the age of 20 I am studying Systems Analysis and Development at UNINTER.
 </p>
-
 <p>
-🔹I really like learning new things, and I'm always looking for something new to know.
+🟧I really like learning new things, and I'm always looking for something new to know.
 </p>
 
 <h2 align="center"> ⚒️ Habilidades / Hardskills</h2>
-
 <h3 align="center"> Linguagens </h3>
 
 <div align="center">
@@ -68,26 +55,15 @@
 
 </div>
 
-<h2 align="center"> 📖 Cursos e Bootcamps </h2>
 
-<div align="center">
-• Criação de páginas para internet - HTML5, CSS3 E JAVASCRIPT - 2023
-</div>
-
-<div align="center">
-•  Análise e Desenvolvimento de Sistemas - UNINTER 2024 -2026
-</div>
-<div align="center">
-• Desenvolvimento Java com IA - Bootcamp 2024
-</div>
 
 <h2 align="center"> 📱 Redes sociais / Social media </h2>
 
 <div align="center">
 
 [![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://discord.com/channels/@rhisen/)
-
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonyferreira17//)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eijhonatanferreira/)
 </div>
 <br>
 
