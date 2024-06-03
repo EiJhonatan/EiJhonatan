@@ -1,48 +1,5 @@
 
 <p align="center">Sou conhecido por <b style="color: #EB9326">EiJhonatan</b> e estou cursando Análise e Desenvolvimento de Sistemas na UNINTER </p>
-<h3 align=center>Sobre mim</h3> 
-
-<p>
-🟠 Olá, meu nome é Jhonatan, me interessei pela área de desenvolvimento de jogos aos 13 anos, depois disso experimentei diversas áreas da tecnologia como software, web e agora com 20 anos estou cursando cursando Análise e Desenvolvimento de Sistemas na UNINTER.
-
-</p>
-<p>
-🟠 Gosto muito de aprender coisas novas, e sempre procuro algo novo pra saber.
-</p>
-
-
-
-<h3 align=center>About[en-us]</h3> 
-
-<p>
-🟧 Hello, my name is Jhonatan, I became interested in the area of ​​game development at the age of 13, after that I tried different areas of technology such as software, web and now at the age of 20 I am studying Systems Analysis and Development at UNINTER.
-</p>
-<p>
-🟧I really like learning new things, and I'm always looking for something new to know.
-</p>
-
-<h2 align="center"> ⚒️ Habilidades / Hardskills</h2>
-<h3 align="center"> Linguagens </h3>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-</div>
-
-<h3 align="center">Game Engines</h3>
-
-<div align="center">
-
-![Unity Engine](https://img.shields.io/badge/-Unity-%23444444?logo=Unity)
-
-
-![Godot Engine](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat)
-</div>
-
 
 <h2 align="center"> 📋 Github Stats </h2>
 
