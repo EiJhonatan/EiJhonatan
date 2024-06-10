@@ -6,7 +6,6 @@
 <div align="center">
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EiJhonatan&layout=donut&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFF&)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EiJhonatan&theme=transparent&bg_color=353D41&border_color=123547&show_icons=true&icon_color=EB9326&title_color=EB9326&text_color=FFF&hide_title=true&hide=stars&rank_icon=github)
 
 
