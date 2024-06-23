@@ -1,6 +1,4 @@
 
-<p align="center">Sou conhecido por <b style="color: #EB9326">EiJhonatan</b> e no momento estou cursando Análise e Desenvolvimento de Sistemas na UNINTER </p>
-
 <h2 align="center"> 📋 Github Stats </h2>
 
 <div align="center">
