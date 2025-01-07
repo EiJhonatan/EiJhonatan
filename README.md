@@ -7,8 +7,6 @@
 
 </div>
 
-
-
 <h2 align="center"> 📱 Redes sociais / Social media </h2>
 
 <div align="center">
