@@ -1,10 +1,22 @@
 <h1>👋 Apenas um pedreiro de software!</h1> 
+<h1 align="center">
+  Olá, eu sou o Jhonatan 👋
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=eb9326&center=true&width=500&lines=Desenvolvedor+Web;Criando+Sistemas+e+Games;Open+Source+Entusiasta">
+</h1>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EiJhonatan&show_icons=true&hide_title=true&count_private=true&hide=prs&bg_color=1e1e2e&border_radius=10&border_color=4c566a&title_color=8fbcbb&text_color=d8dee9&icon_color=eb9326"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EiJhonatan&layout=donut&bg_color=1e1e2e&border_color=4c566a&title_color=8fbcbb&text_color=d8dee9&icon_color=eb9326"/>
+  <img src="https://github.com/EiJhonatan/EiJhonatan/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EiJhonatan&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dracula&border_radius=10&include_all_commits=true&locale=pt-br"/>
+  
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EiJhonatan&layout=donut&theme=dracula&border_radius=10&locale=pt-br"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=EiJhonatan&label=Visitas&color=eb9326"/>
+</div>
 
 <h2>🌍 Onde você pode me encontrar</h2>
 <div align="start">
