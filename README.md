@@ -1,6 +1,7 @@
 <h1>👋 Apenas um pedreiro de software!</h1> 
 <h1 align="center">
   Olá, eu sou o Jhonatan 👋
+  <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=eb9326&center=true&width=500&lines=Desenvolvedor+Web;Criando+Sistemas+e+Games;Open+Source+Entusiasta">
 </h1>
 
