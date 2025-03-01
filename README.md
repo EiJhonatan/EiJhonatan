@@ -5,9 +5,9 @@
 </h1>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EiJhonatan&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dracula&border_radius=10&include_all_commits=true&locale=pt-br"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EiJhonatan&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=tokyonight&border_radius=10&include_all_commits=true&locale=pt-br"/>
   
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EiJhonatan&layout=donut&theme=dracula&border_radius=10&locale=pt-br"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EiJhonatan&layout=donut&theme=tokyonight&border_radius=10&locale=pt-br"/>
 </div>
 
 <div align="center">
@@ -24,5 +24,5 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTV2bnB4ems2amM2d3o4MGRjMnR4ZnZ1bmU1Znl6OTl1cWV0NWs0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TsO3cLxeE8DNsztZyv/giphy.gif" alt="Espacial Voando" width="400"/>
 </div>
->"...Jamais DEIXE alguém de limitar, seja seu próprio limite pois assim nunca será limitado!", ( EiJhonatan, 2024).
 
+<p>"Jamais DEIXE alguém de limitar, seja seu próprio limite pois assim nunca será limitado!", ( EiJhonatan, 2024).</p>
