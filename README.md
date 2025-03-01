@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=eb9326&center=true&width=500&lines=Desenvolvedor+Web;Apenas+Um+Pedreiro+De+Software+!;Open+Source+Entusiasta">
 </h1>
 
+<div align="center">
+  <img src="https://github.com/EiJhonatan/EiJhonatan/blob/output/github-contribution-grid-snake.svg" alt="Snake Game">
+</div>
+
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=EiJhonatan&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dracula&border_radius=10&include_all_commits=true&locale=pt-br"/>
