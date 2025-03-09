@@ -5,8 +5,6 @@
 </h1>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EiJhonatan&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=tokyonight&border_radius=10&include_all_commits=true&locale=pt-br"/>
-  
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EiJhonatan&layout=donut&theme=tokyonight&border_radius=10&locale=pt-br"/>
 </div>
 
